@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\UserPC\\AndroidStudioProjects\\TestApplicationAlmasAmirov\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\authorization_fragment.xml",
+        "source": "C:\\Users\\UserPC\\AndroidStudioProjects\\TestApplicationAlmasAmirov\\app\\src\\main\\res\\layout\\authorization_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\UserPC\\AndroidStudioProjects\\TestApplicationAlmasAmirov\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\UserPC\\AndroidStudioProjects\\TestApplicationAlmasAmirov\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\UserPC\\AndroidStudioProjects\\TestApplicationAlmasAmirov\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\results_fragment.xml",
+        "source": "C:\\Users\\UserPC\\AndroidStudioProjects\\TestApplicationAlmasAmirov\\app\\src\\main\\res\\layout\\results_fragment.xml"
+    }
+]

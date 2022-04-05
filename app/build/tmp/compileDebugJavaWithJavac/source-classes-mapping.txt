@@ -1,0 +1,8 @@
+com/example/testapplicationalmasamirov/databinding/ActivityMainBinding.java
+ com.example.testapplicationalmasamirov.databinding.ActivityMainBinding
+com/example/testapplicationalmasamirov/BuildConfig.java
+ com.example.testapplicationalmasamirov.BuildConfig
+com/example/testapplicationalmasamirov/databinding/AuthorizationFragmentBinding.java
+ com.example.testapplicationalmasamirov.databinding.AuthorizationFragmentBinding
+com/example/testapplicationalmasamirov/databinding/ResultsFragmentBinding.java
+ com.example.testapplicationalmasamirov.databinding.ResultsFragmentBinding
