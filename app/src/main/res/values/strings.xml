@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Test  Application Almas Amirov</string>
+    <string name="Header">Please, log in</string>
+    <string name="Email_hint">Please, enter e-mail</string>
+    <string name="Password_hint">Enter password</string>
+    <string name="Login_button">Log in</string>
+    <string name="Back_button">Back</string>
+    <string name="id">ID:</string>
+    <string name="loading">loading...</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="phone">Phone:</string>
+    <string name="position">Position:</string>
+    <string name="timezone">Timezone:</string>
+</resources>
